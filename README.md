@@ -7,4 +7,4 @@ In this study, we export the developed ANN models as a C++ code and ANN_ME_poult
 
 # Reference
 
-Mostafa Lotfi1, Farid Shariatmadari, Hamed Ahmadi, Mohsen Sharafi (2020). Proximate analysis and metabolizable energy of soybean meal samples from different origins for poultry: Development of prediction models. South African Journal of Animal Science. 
+Mostafa Lotfi, Farid Shariatmadari, Hamed Ahmadi, Mohsen Sharafi (2020). Proximate analysis and metabolizable energy of soybean meal samples from different origins for poultry: Development of prediction models. South African Journal of Animal Science. 
